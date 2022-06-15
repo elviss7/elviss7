@@ -20,14 +20,12 @@ I'm a 32 years old developer. I love to code and figure it out how to solve deep
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+
+
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=ionic&tbm=isch&chips=q:ionic,online_chips:logo:FzjDpxyJu68%3D&rlz=1C1GCEU_pt-PTCV999CV999&hl=pt-BR&sa=X&ved=2ahUKEwirivqCp674AhXQ_4UKHWIpDR0Q4lYoAHoECAEQHQ&biw=1263&bih=544#imgrc=0_GZe-L-Fuq_nM" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=mysql&rlz=1C1GCEU_pt-PTCV999CV999&sxsrf=ALiCzsagTBLvNo7vnucptun1nI-bzVINww:1655256396414&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiVy5TMpq74AhUS16QKHW0mC5UQ_AUoAXoECAIQAw&biw=1280&bih=544&dpr=1.5#imgrc=gFMfE9SmuljwvM" width="36" height="36" alt="MysqlL" /></a>
+<a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img src="https://medium.com/@grisey.alexandre/un-an-et-demi-avec-ionic-2-3-retour-dexp%C3%A9rience-db107f44ecc5" width="36" height="36" alt="IONIC" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Database-mysql.svg" width="36" height="36" alt="MysqL" /></a>
 
 </p>
 
