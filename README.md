@@ -11,7 +11,7 @@ I'm a 32 years old developer. I love to code and figure it out how to solve deep
 🌍 I'm based in Sal island, Cape verde
 ✉️ You can contact me at elvis.tomar@gmail.com
 🚀 I'm currently working on Result Sistemas
-🧠 I'm learning Advanced Javascript, PHP, OINIC
+🧠 I'm learning Advanced Javascript, PHP, IONIC
 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
 ⚡ I love sports and my favorite is BIKE
 
@@ -23,7 +23,7 @@ I'm a 32 years old developer. I love to code and figure it out how to solve deep
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img src="https://medium.com/@grisey.alexandre/un-an-et-demi-avec-ionic-2-3-retour-dexp%C3%A9rience-db107f44ecc5" width="36" height="36" alt="IONIC" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Database-mysql.svg" width="36" height="36" alt="MysqL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Database-mysql.svg" width="36" height="36" alt="MySQL" /></a>
 
 </p>
 
