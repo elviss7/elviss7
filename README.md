@@ -24,8 +24,8 @@ I'm a 32 years old developer. I love to code and figure it out how to solve deep
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white5" width="50" height="36"  alt="IONIC" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"width="50" height="36"  alt="MySQL" /></a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whitee" width="50" height="36" " alt="aNGULAR" /></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="50" height="36"  alt="bOOTSTRAP" /></a>
-    style=for-the-badge&logo=angular&logoColor=whitee" width="50" height="36" " alt="React" /></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whitee" width="50" height="36" " alt="aNGULAR" /></a>
+   
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="50" height="36"  alt="bOOTSTRAP" /></a>
   
 
