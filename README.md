@@ -39,10 +39,9 @@ I'm a 32 years old developer. I love to code and figure it out how to solve deep
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"> <a href="https://github.com/elviss7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elvis-brito-tomar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<p align="left"> <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"> <a href="https://github.com/elviss7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 
 
  
-  ![Snake animation](https://github.com/elviss7/elviss7/blob/output/github-contribution-grid-snake.svg)
  
 
